@@ -1,0 +1,10 @@
+VARIABLES COMPANY employee properties define unique name identity 
+variables global and local
+local - syntax same inside the block method outside class\789.0\
+*
+
+global -syntax same inside class block method outside
+
+employee class 
+public void m1()
+outside 
